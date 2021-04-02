@@ -1,0 +1,2 @@
+First line in Append+ mode
+Second line in Append+ mode
